@@ -17,12 +17,12 @@ export default siteConfig({
   description: 'FireTable Personal Blog powered by Notion',
 
   // social usernames (optional)
-  twitter: null,
+  twitter: undefined,
   github: 'FireTable',
-  linkedin: null,
-  // mastodon: '#', // optional mastodon profile URL, provides link verification
+  linkedin: undefined,
+  // mastodon: '#', // optional mastodon profile URL, provides lin³ verification
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -39,27 +39,4 @@ export default siteConfig({
   isRedisEnabled: false,
 
   // map of notion page IDs to URL paths (optional)
-  // any pages defined here will override their default URL paths
-  // example:
-  //
-  // pageUrlOverrides: {
-  //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
-  pageUrlOverrides: null,
-
-  // whether to use the default notion navigation style or a custom one with links to
-  // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
-})
+  // any pages defined here will override tF…•¥È‘•™…Õ±ĞUI0Á…Ñ¡Ì(€€¼¼•á…µÁ±”è(€€¼¼(€€¼¼Á…•UÉ±=Ù•ÉÉ¥‘•Ìèì(€€¼¼€€€œ½™½¼œè€œÀØİ‘ÜÄå„äÄÈĞÜÅ•„å„Í…ŒÄÀÜÄÁ”İ™‘˜œ°(€€¼¼€€€œ½‰…Èœè€œÁ‰”Ù•™”å‘…˜ĞÈØàá˜ØÕŒÜÙˆàå˜á•ˆÈÜœ(€€¼¼ô(€Á…•UÉ±=Ù•ÉÉ¥‘•Ìè¹Õ±°°((€€¼¼İ¡•Ñ¡•ÈÑ¼ÕÍ”Ñ¡”‘•™…Õ±Ğ¹½Ñ¥½¸¹…Ù¥…Ñ¥½¸ÍÑå±”½È„ÕÍÑ½´½¹”İ¥Ñ ±¥¹­ÌÑ¼(€€¼¼¥µÁ½ÉÑ…¹ĞÁ…•Ì¸Q¼ÕÍ”¹…Ù¥…Ñ¥½¹1¥¹­Í€°Í•Ğ¹…Ù¥…Ñ¥½¹MÑå±•€Ñ¼ÕÍÑ½µ€¸(€¹…Ù¥…Ñ¥½¹MÑå±”è€‘•™…Õ±Ğœ(€€¼¼¹…Ù¥…Ñ¥½¹MÑå±”è€ÕÍÑ½´œ°(€€¼¼¹…Ù¥…Ñ¥½¹1¥¹­Ìèl(€€¼¼€€ì(€€¼¼€€€€Ñ¥Ñ±”è€‰½ÕĞœ°(€€¼¼€€€€Á…•%è€˜ÄÄäåÌÜÔÜåˆĞÅ‰…‰™ŒÁˆÔÄÜÑ˜ĞÈÔÙ„œ(€€¼¼€€ô°(€€¼¼€€ì(€€¼¼€€€€Ñ¥Ñ±”è€½¹Ñ…Ğœ°(€€¼¼€€€€Á…•%è€œÙ„Èå•‰ˆäÌÕ„Ñ˜ÀØàå™”ØØÅ…ˆÕ˜ÍˆáÄœ(€€¼¼€€ô(€€¼¼t)ô¤(
